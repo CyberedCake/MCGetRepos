@@ -2,7 +2,7 @@
   "display": "LuckPerms",
   "version": "5.4.36",
   "direct-download": "https://download.luckperms.net/1444/bukkit/loader/LuckPerms-Bukkit-5.4.36.jar",
-  "last-updated": "1658675160",
+  "last-updated": 1658675160,
   "change-logs": "Forge 1.19 (#3397)",
   "minecraft": {
     "versions": [760, 759, 758, 757, 756, 755, 754, 753, 751, 736, 735, 578, 575, 573, 498, 490, 485, 480, 477, 404, 401, 393, 340, 338, 335, 316, 315, 210, 110, 109, 108, 107, 47],
